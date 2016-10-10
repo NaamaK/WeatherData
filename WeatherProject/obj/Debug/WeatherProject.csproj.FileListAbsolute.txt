@@ -1,0 +1,12 @@
+c:\users\shir\documents\visual studio 2013\Projects\WeatherProject\WeatherProject\bin\Debug\WeatherProject.exe.config
+c:\users\shir\documents\visual studio 2013\Projects\WeatherProject\WeatherProject\bin\Debug\WeatherProject.exe
+c:\users\shir\documents\visual studio 2013\Projects\WeatherProject\WeatherProject\bin\Debug\WeatherProject.pdb
+c:\users\shir\documents\visual studio 2013\Projects\WeatherProject\WeatherProject\obj\Debug\WeatherProject.exe
+c:\users\shir\documents\visual studio 2013\Projects\WeatherProject\WeatherProject\obj\Debug\WeatherProject.pdb
+C:\Users\shir\Documents\Visual Studio 2013\Projects\WeatherProject\WeatherProject\obj\Debug\WeatherProject.csprojResolveAssemblyReference.cache
+C:\Users\Naama\Desktop\WeatherProject222\WeatherProject\WeatherProject\bin\Debug\WeatherProject.exe.config
+C:\Users\Naama\Desktop\WeatherProject222\WeatherProject\WeatherProject\obj\Debug\WeatherProject.exe
+C:\Users\Naama\Desktop\WeatherProject222\WeatherProject\WeatherProject\obj\Debug\WeatherProject.pdb
+C:\Users\Naama\Desktop\WeatherProject222\WeatherProject\WeatherProject\bin\Debug\WeatherProject.exe
+C:\Users\Naama\Desktop\WeatherProject222\WeatherProject\WeatherProject\bin\Debug\WeatherProject.pdb
+C:\Users\Naama\Desktop\WeatherProject222\WeatherProject\WeatherProject\obj\Debug\WeatherProject.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\shir\Documents\Visual Studio 2013\Projects\WeatherProject\WeatherProjectTests\obj\Debug\WeatherProjectTests.csprojResolveAssemblyReference.cache
+C:\Users\shir\Documents\Visual Studio 2013\Projects\WeatherProject\WeatherProjectTests\bin\Debug\WeatherProjectTests.dll
+C:\Users\shir\Documents\Visual Studio 2013\Projects\WeatherProject\WeatherProjectTests\bin\Debug\WeatherProjectTests.pdb
+C:\Users\shir\Documents\Visual Studio 2013\Projects\WeatherProject\WeatherProjectTests\bin\Debug\WeatherProject.exe
+C:\Users\shir\Documents\Visual Studio 2013\Projects\WeatherProject\WeatherProjectTests\bin\Debug\WeatherProject.pdb
+C:\Users\shir\Documents\Visual Studio 2013\Projects\WeatherProject\WeatherProjectTests\obj\Debug\WeatherProjectTests.dll
+C:\Users\shir\Documents\Visual Studio 2013\Projects\WeatherProject\WeatherProjectTests\obj\Debug\WeatherProjectTests.pdb
+C:\Users\Naama\Desktop\WeatherProject222\WeatherProject\WeatherProjectTests\bin\Debug\WeatherProjectTests.dll
+C:\Users\Naama\Desktop\WeatherProject222\WeatherProject\WeatherProjectTests\bin\Debug\WeatherProjectTests.pdb
+C:\Users\Naama\Desktop\WeatherProject222\WeatherProject\WeatherProjectTests\bin\Debug\WeatherProject.exe
+C:\Users\Naama\Desktop\WeatherProject222\WeatherProject\WeatherProjectTests\bin\Debug\WeatherProject.pdb
+C:\Users\Naama\Desktop\WeatherProject222\WeatherProject\WeatherProjectTests\obj\Debug\WeatherProjectTests.csprojResolveAssemblyReference.cache
+C:\Users\Naama\Desktop\WeatherProject222\WeatherProject\WeatherProjectTests\obj\Debug\WeatherProjectTests.dll
+C:\Users\Naama\Desktop\WeatherProject222\WeatherProject\WeatherProjectTests\obj\Debug\WeatherProjectTests.pdb
